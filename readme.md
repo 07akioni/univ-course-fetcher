@@ -8,5 +8,5 @@
 ## 是否开箱即用？
 不，这只是个人项目，可能会有各种各样的问题，而且因为我只需要爬一次，很多地方需要手动贴 Cookie。
 ## 快捷命令
-npm run pku-master
-npm run tongji
+- npm run pku-master
+- npm run tongji
